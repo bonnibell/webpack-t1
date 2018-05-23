@@ -1,4 +1,8 @@
 # Compiled class file
+node_modules/
+Content/
+新建文件夹/
+bundle.js
 *.class
 
 # Log file
